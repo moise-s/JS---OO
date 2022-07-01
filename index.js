@@ -4,20 +4,24 @@
 //     idade
 // }
 
-console.log("hello world")
 
-console.log(12344)
 
-let names = {
-    fname: "Moisés",
-    lname: "Nascimento"
-}
-console.log(names)
-console.log(names.hasOwnProperty("fname"))
+// let names = {
+//     fname: "Moisés",
+//     lname: "Nascimento"
+// }
+// console.log(names)
+// console.log(names.hasOwnProperty("fname"))
 
-let pessoa = {
-    nome: 'schwazziplaysson',
-    sobrenome: 'nascimento'
-}
+// let pessoa = {
+//     nome: 'schwazziplaysson',
+//     sobrenome: 'nascimento'
+// }
 
-console.log(pessoa)
+// console.log(pessoa)
+
+// const HelloWorldsss = () => "Hello World";
+
+// console.log(HelloWorldsss)
+console.log("Olaaaa")
+console.log("Olaaa22222a")
