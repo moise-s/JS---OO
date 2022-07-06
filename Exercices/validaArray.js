@@ -23,6 +23,7 @@ function validaArray(array,num) {
 		} else if (e instanceof ReferenceError) {
 			console.log('ReferenceError!');
 			console.log(e.stack);
+            
 		} else {
 			console.log('Outro tipo de erro!');
 			console.log(e.stack);
